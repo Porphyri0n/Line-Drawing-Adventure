@@ -255,7 +255,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: key/user.keystore'
+  AndroidKeystoreName: C:/Projects/UnityProjects/app-keys/LDA/user.keystore
   AndroidKeyaliasName: lutames
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
